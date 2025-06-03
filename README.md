@@ -44,6 +44,6 @@ This project is a Streamlit-based dashboard that compares two machine-learning m
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/financial-model-comparison-dashboard.git
+   git clone [https://github.com/hypertech12/ForecastingModel/tree/main]
    cd financial-model-comparison-dashboard
 <div align="center"> <a href="https://rcforecastingmodel.streamlit.app"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="80" alt="Streamlit Logo" /> </a> <p>Click the Streamlit logo to launch the live app</p> </div>
